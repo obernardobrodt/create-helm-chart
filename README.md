@@ -16,7 +16,7 @@ Criando nosso Chart
 
 Verificando se está tudo Ok
 
-` helm create template-chart `
+` helm lint .\template-chart\ `
 
 Criando nosso pacote de arquivo atráves do nosso chart, somente se tivermos isso poderemos instalar ele
 
